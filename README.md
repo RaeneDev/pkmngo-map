@@ -38,7 +38,7 @@ Use Python2.7 for better compatibility.
 * Run your browser to `http://localhost:8000`
 
 ### Windows
-* Frist run `pip.exe install -r [location requirements.txt]`, <br/>Example : `C:\Python27\Scripts\pip.exe install -r C:\Users\Royal\Downloads\pkmngo-map-maps\requirements.txt`
+* First run `pip.exe install -r [location requirements.txt]`, <br/>Example : `C:\Python27\Scripts\pip.exe install -r C:\Users\Royal\Downloads\pkmngo-map-maps\requirements.txt`
 * Put Google Maps API key in `config.json`
 * Start `run.bat` and enter in prompts for username, password, and location
 * Open browser to `http://localhost:8000`
